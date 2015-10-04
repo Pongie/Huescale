@@ -1,6 +1,9 @@
 
 /GoT/Saved/
-
+.log
+EditorLayout.ini
+EditorUserSettings.ini
+.json
 
 #################
 ## Eclipse
